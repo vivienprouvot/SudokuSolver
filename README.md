@@ -5,12 +5,17 @@
 
     options are:
       -oFILE,  --output=FILE    write result to FILE.
-      -gSIZE,  --generate=SIZE  generate a SIZE-sized grid (9 by default).
-      -s,      --strict         to have only one solution.
-      -v,      --verbose        verbose output.
-      -V,      --version        display version and exit.
-      -h,      --help           display this help.
       
+      -gSIZE,  --generate=SIZE  generate a SIZE-sized grid (9 by default).
+
+      -s,      --strict         to have only one solution.
+
+      -v,      --verbose        verbose output.
+
+      -V,      --version        display version and exit.
+
+      -h,      --help           display this help.
+
     exemple:
     ./sudoku -g 9
 

@@ -4,6 +4,7 @@
 - launch the program with ./sudoku [options] [FILE]
 
     options are:
+    
       -oFILE,  --output=FILE    write result to FILE.
       
       -gSIZE,  --generate=SIZE  generate a SIZE-sized grid (9 by default).
@@ -16,8 +17,7 @@
 
       -h,      --help           display this help.
 
-    exemple:
-    ./sudoku -g 9
+- exemple:    ./sudoku -g 9
 
 - enjoy.
  

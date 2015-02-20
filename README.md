@@ -17,7 +17,7 @@
 
       -h,      --help           display this help.
 
-- exemple:    ./sudoku -g 9
+- exemple:    ./sudoku -g9
 
 - enjoy.
  

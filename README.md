@@ -1,7 +1,7 @@
 # SudokuSolver
 - Compile with the make command
 
-- launch the program with ./sudoku [options] [FILE]
+- launch the program with ./sudoku [options]
 
     options are:
     

@@ -18,6 +18,8 @@
       -h,      display this help.
 
 - exemple:    ./sudoku -g9
+ 
+- you can also solve an imported grid by typing ./sudoku [options] FILE
 
 - enjoy.
  

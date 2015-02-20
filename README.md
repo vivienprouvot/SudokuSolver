@@ -1,7 +1,7 @@
 # SudokuSolver
 - Compile with the make command
 
-- launch the program with ./sudoku [options]
+- Launch the program with ./sudoku [options]
 
     options are:
     
@@ -17,9 +17,9 @@
 
       -h,      display this help.
 
-- exemple:    ./sudoku -g9
+- Exemple:    ./sudoku -g9
  
-- you can also solve an imported grid by typing ./sudoku [options] FILE
+- You can also solve an imported grid by typing ./sudoku [options] FILE
 
-- enjoy.
+- Enjoy.
  
